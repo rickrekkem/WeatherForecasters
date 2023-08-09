@@ -49,12 +49,11 @@ I.  **Requirements:**
 >
 > Select the arrow on the bottom right hand corner of the notebook.
 >
-> ![Image](readme/media/image24.png){width="6.359375546806649in"
+> ![Image](readme/media/image24.png)
 >
 > Toggle internet settings to on.
 >
-> ![Image](readme/media/image19.png){width="2.2656255468066493in"
-> height="4.245495406824147in"}
+> ![Image](readme/media/image19.png)
 >
 > If the option to enable internet access is not available, there will
 > be a link in its place allowing the user to verify their account with
