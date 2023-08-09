@@ -50,7 +50,6 @@ I.  **Requirements:**
 > Select the arrow on the bottom right hand corner of the notebook.
 >
 > ![Image](readme/media/image24.png){width="6.359375546806649in"
-> height="3.0038298337707787in"}
 >
 > Toggle internet settings to on.
 >
