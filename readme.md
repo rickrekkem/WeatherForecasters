@@ -27,22 +27,22 @@ I.  **Requirements:**
 • Numpy
 
 • Pandas
->
-> 	• Matplotlib
->
-> 	• Statsmodels
->
-> 	• Adfuller
->
-> 	• Itertools
->
-> 	• Warnings
->
-> 	• datetime
->
-> 	• Pmdarima
->
-> 	• Auto_arima
+
+• Matplotlib
+
+• Statsmodels
+
+• Adfuller
+
+• Itertools
+
+• Warnings
+
+• datetime
+
+• Pmdarima
+
+• Auto_arima
 >
 > **In order to enable Pmdarima and for the code to run correctly,
 > internet must be enabled in your Kaggle notebook:**
@@ -110,8 +110,7 @@ V.  **Exploring and Visualization:**
 >
 > ![](readme/media/image6.png)
 >
-> 2a) If data is not stationary, difference and perform another ADF test
-> until p value is less than 5%
+2a) If data is not stationary, difference and perform another ADF test until p value is less than 5%
 >
 > ![](readme/media/image22.png)
 
