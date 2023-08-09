@@ -163,6 +163,3 @@ V.  **Exploring and Visualization:**
  ![](readme/media/image20.png)
 
  ![](readme/media/image2.png)
-
-![image](https://github.com/rickrekkem/WeatherForecasters/assets/109248041/c8970d5c-6c99-40b5-8ee8-6d233c6509fb)
-![image](https://github.com/rickrekkem/WeatherForecasters/assets/109248041/81006b89-e32b-4a09-8edd-feba7e6d4391)
