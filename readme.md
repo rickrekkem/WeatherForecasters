@@ -75,7 +75,7 @@ You should now see the dataset added under 'Input'.
 ![](readme/media/image25.png)
 II. **Dataset:**
 
-[[https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data?select=temperature.csv]{.underline}](https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data?select=temperature.csv)
+[[https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data?select=temperature.csv]](https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data?select=temperature.csv)
 
 III. **Data Preprocess:**
 
@@ -104,8 +104,7 @@ V.  **Exploring and Visualization:**
 
 > ![](readme/media/image8.png)
 
-2)  Perform Augmented Dickey-Fuller Test to determine if time series
-    > data is stationary. Reject null hypothesis if p-value less than 5%
+2)  Perform Augmented Dickey-Fuller Test to determine if time series data is stationary. Reject null hypothesis if p-value less than 5%
 
 > ![](readme/media/image15.png)
 >
@@ -122,8 +121,7 @@ V.  **Exploring and Visualization:**
 
 > ![](readme/media/image4.png)
 
-2)  Perform MSE on ARIMA Fitted Values against original differenced
-    > dataset for validation
+2)  Perform MSE on ARIMA Fitted Values against original differenced dataset for validation
 
 > ![](readme/media/image11.png)
 
@@ -133,8 +131,7 @@ V.  **Exploring and Visualization:**
 
 **VII. Approach Two: SARIMA Model**
 
-1)  Plot differenced dataset and check for seasonality by performing
-    > visual inspection on graph for seasonal pattern
+1)  Plot differenced dataset and check for seasonality by performing visual inspection on graph for seasonal pattern
 
 > ![](readme/media/image13.png)
 
@@ -159,8 +156,7 @@ V.  **Exploring and Visualization:**
 
 **IX. Final Results for both Models:**
 
-1)  Perform inverse operation on differenced dataset to revert data back
-    > to its original scale in Fahrenheit
+1)  Perform inverse operation on differenced dataset to revert data back to its original scale in Fahrenheit
 
 > ![](readme/media/image18.png)
 2)  Plot Historical Data and Predictions
