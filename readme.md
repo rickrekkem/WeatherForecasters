@@ -20,9 +20,6 @@ VIII. **Validation for both Models via Mean Squared Error (MSE)**
 
 IX. **Final Results for both Models**
 
-```{=html}
-<!-- -->
-```
 I.  **Requirements:**
 
 > 	• Python 3.5 or higher
