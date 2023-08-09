@@ -25,27 +25,27 @@ IX. **Final Results for both Models**
 ```
 I.  **Requirements:**
 
-> ¬∑ Python 3.5 or higher
+> 	• Python 3.5 or higher
 >
-> ¬∑ Numpy
+> 	• Numpy
 >
-> ¬∑ Pandas
+> 	• Pandas
 >
-> ¬∑ Matplotlib
+> 	• Matplotlib
 >
-> ¬∑ Statsmodels
+> 	• Statsmodels
 >
-> ¬∑ Adfuller
+> 	• Adfuller
 >
-> ¬∑ Itertools
+> 	• Itertools
 >
-> ¬∑ Warnings
+> 	• Warnings
 >
-> ¬∑ datetime
+> 	• datetime
 >
-> ¬∑ Pmdarima
+> 	• Pmdarima
 >
-> ¬∑ Auto_arima
+> 	• Auto_arima
 >
 > **In order to enable Pmdarima and for the code to run correctly,
 > internet must be enabled in your Kaggle notebook:**
